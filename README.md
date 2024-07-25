@@ -29,8 +29,8 @@ Before you begin, ensure you have the following:
 1. Open Google Colab in your browser: [Google Colab](https://colab.research.google.com/)
 
 2. Open the desired notebook from this repository:
-    - [Linear_Regression_Model.ipynb](https://github.com/your-username/ml-practice/blob/main/Linear_Regression_Model.ipynb)
-    - [Data_Visualization_Techniques.ipynb](https://github.com/your-username/ml-practice/blob/main/Data_Visualization_Techniques.ipynb)
+    - [Linear_Regression_Model1.ipynb](https://github.com/your-username/ml-practice/blob/main/Linear_Regression_Model.ipynb)
+    - [Linear_Regression_Model2.ipynb](https://github.com/your-username/ml-practice/blob/main/Data_Visualization_Techniques.ipynb)
 
 3. Once the notebook is opened in Colab, you can run the cells directly. If you need to upload any datasets, you can use Colab’s file upload feature.
 
