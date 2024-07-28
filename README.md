@@ -1,12 +1,13 @@
-# Machine Learning Practice with Linear Regression and Data Visualization
+# Machine Learning Practice with Linear Regression, Data Visualization and KNN Classification
 
 Welcome to the Machine Learning Practice repository! This repository contains Jupyter Notebooks for practicing machine learning concepts using linear regression and exploring data visualization techniques, specifically designed for use with Google Colab.
 
 ## Repository Contents
 
 1. **Notebooks**:
-    - `Linear_Regression_Model.ipynb`: A notebook demonstrating linear regression using scikit-learn.
-    - `Data_Visualization_Techniques.ipynb`: A notebook showcasing various data visualization techniques using libraries like Matplotlib and Seaborn.
+    - `Model1.ipynb`: A notebook demonstrating linear regression using scikit-learn.
+    - `Model2.ipynb`: A notebook showcasing linear regression to predict stock prices.
+    - 'Model3.ipynb': A notebook showcasing knn neighbour classification model to predict stock prices.
 
 2. **Data**:
     - `data/`: A directory containing datasets used in the notebooks.
@@ -31,6 +32,8 @@ Before you begin, ensure you have the following:
 2. Open the desired notebook from this repository:
     - [Linear_Regression_Model1.ipynb]([https://github.com/your-username/ml-practice/blob/main/Linear_Regression_Model.ipynb](https://github.com/samyamehta16/machinelearning/blob/main/model1.ipynb))
     - [Linear_Regression_Model2.ipynb]([https://github.com/your-username/ml-practice/blob/main/Data_Visualization_Techniques.ipynb](https://github.com/samyamehta16/machinelearning/blob/main/model2.ipynb))
+    - [Knn.classificationModel3.ipynb]([https://github.com/samyamehta16/machinelearning/blob/main/knnclassification.ipynb]
+    
 
 3. Once the notebook is opened in Colab, you can run the cells directly. If you need to upload any datasets, you can use Colab’s file upload feature.
 
